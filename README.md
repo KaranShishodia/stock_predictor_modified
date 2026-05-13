@@ -2097,3 +2097,6 @@ with st.expander("📋 View Raw Data & Indicators"):
 # ────────────────────────────────────────────────────────────────────────────
 st.markdown("---")
 st.caption("🔧 Stock Predictor Pro · Built with Streamlit, Keras & yfinance · For educational purposes only.")
+
+# creator
+Karan Shishodia
